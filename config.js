@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'ChatGPT',
-			icon: 'trello',
+			icon: 'message-square-code',
 			link: 'https://chatgpt.com',
 		},
 		{
